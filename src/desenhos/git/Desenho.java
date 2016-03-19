@@ -1,5 +1,7 @@
 package desenhos.git;
 
-public class Desenho {
+interface Desenho {
+	
+	public void desenhar();
 
 }
